@@ -29,9 +29,9 @@ The UCI HAR Dataset contains the following files:
 * Require libraries: reshapre2 and data.table
 * Load test and train data
 * Load the features and activity labels
-*Extract the mean and standard deviation column names and data
-*Process the data
-*Merge data set
+* Extract the mean and standard deviation column names and data
+* Process the data
+* Merge data set
 
 
   
